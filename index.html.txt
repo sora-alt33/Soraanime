@@ -1,0 +1,10 @@
+index.html
+bleach.html
+onepiece.html
+attackontitan.html
+naruto.html
+demon-slayer.html
+my-hero.html
+jujutsu-kaisen.html
+hunter-x-hunter.html
+fairy-tail.html
